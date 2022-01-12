@@ -1,0 +1,4 @@
+// https://destinyitemmanager.fandom.com/wiki/Creating_Wish_Lists
+
+title:This is a compiled collection of god/recommended rolls.
+description:Created by Credo Calamitoso.
