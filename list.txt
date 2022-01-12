@@ -2,3 +2,9 @@
 
 title:This is a compiled collection of god/recommended rolls.
 description:Created by Credo Calamitoso.
+
+// -- starfv#7947 --------------------------------------------------------------------------------
+
+// Ejecución Extraordinaria
+//notes: starfv#7947: La combinación de desbordamiento junto con frenético hacen de este arma uno de los mejores sustitutos de nuestro querido IKELOS. Posibilidad de llevar uno para todos en la cuarta columna, pero es difícil de activar algunas veces debido a las pocas balas disponibles. Obra maestra: Alcance/Estabilidad y Modificador: Cargador Auxiliar o Especialización en Subalternos.
+dimwishlist:item=1097616550&perks=1482024992,2420895100,3643424744,4104185692
