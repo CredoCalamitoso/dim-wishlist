@@ -10,7 +10,7 @@ description:Created by Credo Calamitoso.
 dimwishlist:item=1097616550&perks=1482024992,2420895100,3643424744,4104185692
 
 // Susurro Ensordecedor
-//notes: starfv#7947: Una bestia de limpiar oleadas y oleadas de enemigos. La mejor combinación de perks se da con plomo de oro/asesino ambicioso y desenfreno/funda de carga automática. Obra maestra:  Velocidad/Velocidad de recarga y Modificador: Especialización en Comandantes/Subalternos.
+//notes: starfv#7947: Una bestia de limpiar oleadas y oleadas de enemigos. Las mejores combinaciones de perks que podemos conseguir son plomo de oro/asesino ambicioso y desenfreno/funda de carga automática. Obra maestra:  Velocidad/Velocidad de recarga y Modificador: Especialización en Comandantes/Subalternos.
 dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3300816228
 
 
