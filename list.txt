@@ -15,6 +15,6 @@ dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3300816228
 
 // Código de Ignición
 //notes: starfv#7947: El mejor lanzagranadas cinético para PVE que puedes encontrar. Si en la segunda columna juntas granada de picos y granadas cegadoras es una bestia en cualquier situación. Obra maestra: Velocidad y Modificador: Especialización en Subalternos (para matar a los pequeñines aún llevando granadas cegadoras).
-dimwishlist:item=304659313$perks=1441682018,3032599245,3301904089,3161816588,1546637391
+dimwishlist:item=304659313&perks=1441682018,3032599245,3301904089,3161816588,1546637391
 
 
