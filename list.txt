@@ -27,6 +27,6 @@ dimwishlist:item=211938782&perks=1784898267,3827198035,2450788523,1546637391
 
 // Carabina Séptimo Serafín
 //notes: starfv#7947: T14/T15 Un gran fusil automático para aprovechar el modificador antibarrera de esta temporada. Uniendo una mejora en alcance y estabilidad, emparejamos a la cuarta va la vencida junto con arma vorpal para hacer frente a esos campeones. Obra maestra: Alcance/Estabilidad y Modificador: Cargador Auxiliar.
-dimwishlist:item=211938782&perks=1784898267,3827198035,2450788523,1546637391
+dimwishlist:item=1561006927&perks=3250034553,3230963543,1354429876,1546637391
 
 
