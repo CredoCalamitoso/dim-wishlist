@@ -29,4 +29,19 @@ dimwishlist:item=211938782&perks=1784898267,3827198035,2450788523,1546637391
 //notes: starfv#7947: T14/T15 Un gran fusil automático para aprovechar el modificador antibarrera de esta temporada. Uniendo una mejora en alcance y estabilidad, emparejamos a la cuarta va la vencida junto con arma vorpal para hacer frente a esos campeones. Obra maestra: Alcance/Estabilidad y Modificador: Cargador Auxiliar.
 dimwishlist:item=1561006927&perks=3250034553,3230963543,1354429876,1546637391
 
+// Interferencia VI
+//notes: starfv#7947: Unos de los mejores lanzagranadas legendarios, un digno sucesor de Wendigo. Existen muchas combinaciones posibles para la primera y segunda columna de perks, pero para la tercera y cuarta columna, carga descomunal y asamblea plenaria son las mejores perks posibles para este lanzagranadas. Obra maestra: Velocidad/Radio y Modificador: Especialización en Jefes/Cargador Auxiliar.
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110
+dimwishlist:item=2257180473&perks=1844523823,3301904089,2284787283,2888557110
+
+// Profecía Verdadera
+//notes:starfv#7947: Cañón de mano cinético todoterreno, se convierte en una bestia en las temporadas que presentan modificadores anticampeones de cañones de mano. Carga programada puede sustituirse sin problemas por carga explosiva, o incluso por desenfreno. Obra maestra: Estabilidad/Alcance y Modificador: Especialización en Comandantes.
+dimwishlist:item=2742838700&perks=1926090095,1087426260,3643424744,1954620775
+
+// Revolver Séptimo Serafín
+//notes:starfv#7947: Existen dos variantes para llevar esta preciosida de cañón de mano, una dirigida para una build con pantalones de la suerte y otra más todoterreno. Para la primera elegiremos a la cuarta va la vencida junto con arma vorpal, mientras que para un cañón más todoterreno podemos elegir a la cuarta va la vencida con carga programada Obra maestra: Estabilidad/Alcance y Modificador: Especialización en Jefes (Pantalones de la Suerte)/Especialización en Comandantes.
+dimwishlist:item=3037520408&perks=1482024992,1087426260,1354429876,1546637391
+dimwishlist:item=3037520408&perks=1482024992,1087426260,1354429876,1954620775
+
+
 
