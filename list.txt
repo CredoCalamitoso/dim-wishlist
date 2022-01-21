@@ -39,9 +39,32 @@ dimwishlist:item=2257180473&perks=1844523823,3301904089,2284787283,2888557110
 dimwishlist:item=2742838700&perks=1926090095,1087426260,3643424744,1954620775
 
 // Revolver Séptimo Serafín
-//notes:starfv#7947: Existen dos variantes para llevar esta preciosida de cañón de mano, una dirigida para una build con pantalones de la suerte y otra más todoterreno. Para la primera elegiremos a la cuarta va la vencida junto con arma vorpal, mientras que para un cañón más todoterreno podemos elegir a la cuarta va la vencida con carga programada Obra maestra: Estabilidad/Alcance y Modificador: Especialización en Jefes (Pantalones de la Suerte)/Especialización en Comandantes.
+//notes:starfv#7947: Existen dos variantes para llevar esta preciosida de cañón de mano, una dirigida para una build con pantalones de la suerte y otra más todoterreno. Para la primera elegiremos a la cuarta va la vencida junto con arma vorpal, mientras que para un cañón más todoterreno podemos elegir a la cuarta va la vencida con carga programada. Obra maestra: Estabilidad/Alcance y Modificador: Especialización en Jefes (Pantalones de la Suerte)/Especialización en Comandantes.
 dimwishlist:item=3037520408&perks=1482024992,1087426260,1354429876,1546637391
 dimwishlist:item=3037520408&perks=1482024992,1087426260,1354429876,1954620775
 
+// Ametralladora Séptimo Serafín
+//notes:starfv#7947: Una de las mejores ametralladoras para PvE, no rivaliza con nuestra querida 21% Delirio, pero se le acerca bastante. Es prefeerible Línea de Fuego después del parche del 30º Aniversario, pero tampoco se le pueden hacer ascos a Arma Vorpal. Obra maestra: Estabilidad y Modificador: Especialización en Jefes.
+dimwishlist:item=2582755344&perks=1840239774,1087426260,2284787283,1771339417
+dimwishlist:item=2582755344&perks=1840239774,1087426260,2284787283,1546637391
 
+// Hambre Constante
+//notes:starfv#7947: (PvE) El rey por excelencia de los fusiles automáticos energéticos, con la combinación perfecta (Subsistencia/Desenfreno). Posibilidad de llevar con una build basada en granadas. Obra maestra: Estabilidad y Modificador: Especialización en Desenfreno/Cargador Auxiliar.
+dimwishlist:item=821154603&perks=1482024992,1087426260,1820235745,3425386926
+dimwishlist:item=821154603&perks=1482024992,1087426260,1820235745,3523296417
 
+// Picadura Arsénica-4B
+//notes:starfv#7947: Un arco energético decente para cualquier actividad, podría ser el mejor si permitiera la combinación de Tempo del Arquero/Punta Explosiva, pero Desenfreno/Punta Explosiva no se queda atrás. La combinación de cuerdas y flechas queda a gusto de cada uno, pero a opinión personal, menor tiempo de tensado siempre es lo mejor. Obra maestra: Tiempo de Tensado y Modificador: Especialización en Comandantes.
+dimwishlist:item=720351795&perks=2801223209,3827198035,3425386926,3365897133
+
+// Cuentaverdades
+//notes:starfv#7947: Es un lanzagranadas que todo guardián debería tener en su inventario, puede salvar a tu escuadra y a ti de un wipe seguro gracias a la combinación de cegadoras, Funda de Carga Automática y Desenfundado Veloz. Es posible sustituir esta última perk por Disrupción Interrumpida. Obra maestra: Velocidad/Radio de Explosión y Modificador: Especialización en Subalternos (para matar a los rojitos aún llevando cegadoras).
+dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,706527188
+dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,1683379515
+
+// Escopeta Séptimo Serafín
+//notes:nitraM365#8956: (PvP) Full choke nos permite reducir la dispersión de los proyectiles al apuntar, lo que aumenta la consistencia de la escopeta de forma casi diría exponencial. Así mismo, cuando hablamos de la munición existen 2 posibilidades, aunque en este caso me decanto por cargador de asalto, ya que aumenta significativamente la versatilidad del arma, haciendo que dispare mucho más rápido. La otra opción, sin embargo, es perfectamente igual de versátil, dado que los 10 puntitos extra de alcance que nos da munición perfeccionada transforman a esta escopeta en un auténtico francotirador. Lo que hace a esta escopeta destacar por encima del resto es su capacidad de rollear Desenfundado veloz con mira instantánea, lo que la convierte en la escopeta más "ligera" del juego (especialmente si tenemos en cuenta que es una escopeta de armazón ligero y que recibiremos unos deliciosos +20 de agilidad solo por tenerla en la mano). Otras opciones, sin embargo, también útiles pero no tan viables serían mejora deslizante (en el caso de que portemos algún exótico de manejo como los aspectos de ofidio o la sombra del dragón) o arma vorpal, muy útil para acabar con supers de un escopetazo y un melee. Obra maestra: Alcance y Modificador: Empuñadura de Ícaro.
+dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,957782887
+dimwishlist:item=1821724780&perks=1047830412,791862061,3161816588,957782887
+dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,1546637391
+dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,957782887
