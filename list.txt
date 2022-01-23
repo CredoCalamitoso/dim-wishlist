@@ -86,5 +86,22 @@ dimwishlist:item=211938782&perks=852209214,3827198035,201365942,1546637391
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3708227201
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3523296417
 
+// Guillotina
+//notes:starfv#7947: La mejor espada legendaria sin discusión, y mira que han intentado destrozarla bastantes veces. Es obligatorio tener una siempre a mano por lo que pueda pasar. El uso del ataque pesado junto con filo torbellino diferencia una gillotina mal usada frente a una bestia. Obra maestra: Impacto y Modificador: Especialización en Jefes.
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
+
+// Coordenadas Cartesianas
+//notes:starfv#7947: Un grato descubrimiento en la temporada de los perdidos, Deconstructor de Partículas ha elevado a este fusión de lo más bajo en PvE a ser inconcebible no tener uno en el inventario para cualquier actividad. La temporada que viene sabremos el sitio donde le corresponde estar. Obra maestra: Tiempo de Carga y Modificador: Especialización en Jefes.
+dimwishlist:item=2481881293&perks=2405638014,1687452232,1556840489,1546637391
+
+// Separacoronas
+//notes:starfv#7947: Llegó renovada en la temporada del simbionte para hacer frente a Guillotina, y se ha convertido en una gran opción para aquellos titanes sin miedo a morir (ejem, Tucu, ejem). Muy importante la administración de energía para el golpe pesado. Obra maestra: Impacto y Modificador: Especialización en Jefes.
+dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
+
+// Plan de Emergencia
+//notes:starfv#7947: Otra arma renovada en la temporada de los perdidos. Arma muy divertida de usar, pero muy difícil de obtener un roll en condiciones. No hay mucho más que comentar sobre ella. Obra maestra: Estabilidad/Alcance y Modificador: Especialización en Comandantes.
+dimwishlist:item=577528837&perks=1482024992,1087426260,1820235745,4104185692
+
+
 
 
