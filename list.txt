@@ -68,3 +68,23 @@ dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,957782887
 dimwishlist:item=1821724780&perks=1047830412,791862061,3161816588,957782887
 dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,1546637391
 dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,957782887
+
+// Falsas Promesas
+//notes:starfv#7947: Un gran fusil automático cinético, algo eclipsado por fiebre del croma. Si te has quedado sin datos desencriptados, o trayectorias de paralaje, puede ser una buena opción gastar las piezas del armero en este fusil. Una bestia en rango, pero flaquea en cortas distancias. La elección de perks ayudan a aumentar su estabilidad en largas distancias. Obra maestra: Estabilidad/Alcance y Modificador: Especialización en Comandantes.
+dimwishlist:item=3143732432&perks=1482024992,1968497646,3643424744,3425386926
+
+// Primero y Último
+//notes:starfv#7947: La pesadilla de Taniks. Una de las mejores escopetas de postas con una gran combinación de perks. Las postas no están en su mejor momento en PvE, pero quién sabe que pasará en La Reina Bruja. Obra maestra: Alcance y Modificador: Especialización en Jefes.
+dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391
+
+// Losa Susurrante
+//notes:starfv#7947: Uno de los tres mejores arcos cinéticos para el contenido End-Game de Destiny, junto con Viento Cortante y Redención Acumulada. Buscamos tener el menor tiempo de tensado posible, para mantener esta temporada a los sobrecargas a raya en esta temporada y para los barrera de la que viene. Obra maestra: Tiempo de Tensado y Modificador: Especialización en Comandantes.
+dimwishlist:item=211938782&perks=852209214,3827198035,201365942,1546637391
+
+// IKELOS_SMG_V1.0.2
+//notes:starfv#7947: Uno de los mejores subfusiles energéticos (para mi gusto, el mejor). Vivió su época de gloria con las Celulas del Estratega, pero aunque estás estén nerfeadas, sigue siendo una mala bestia. Para una build de Disciplina es de las mejores armas. Obra maestra: Manejo/Alcance y Modificador: Cargador Auxiliar/Especialización en Rodeado.
+dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3708227201
+dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3523296417
+
+
+
